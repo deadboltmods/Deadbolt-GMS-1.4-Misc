@@ -9,8 +9,8 @@ Public repo for modding [Deadbolt](https://store.steampowered.com/app/394970/DEA
 | Name | Description |
 | ---- | ----------- |
 | [UMT](https://github.com/krzys-h/UndertaleModTool) | Edit code and sprites. Fast and easy to use |
-| [Gamemaker 1.4 Docs](https://docs.yoyogames.com/) | Learn GameMaker's language, GML |
-| [Gamemaker Studio 1.4](https://github.com/ithinkandicode/Deadbolt-GameMaker-1.4/issues/11) | (Optional) Apply your mods in the original development environment, and re-compile the game. The is the best approach for huge mods requiring new scripts and refactors, but it's slow to compile and there are many issues to fix. The [issues](https://github.com/ithinkandicode/Deadbolt-GameMaker-1.4/issues) will help you here. <sup>\*1</sup> |
+| [Gamemaker 1.4 Docs](https://gmsdocs.codemuffin.com/1.4.1749/) | Learn GameMaker's language, GML. The link is actually to a self-hosted mirror of the 1.4.1749 docs (which aren't online anymore) |
+| [Gamemaker Studio 1.4.1749](https://github.com/ithinkandicode/Deadbolt-GameMaker-1.4/issues/11) | (Optional) Apply your mods in the original development environment, and re-compile the game. The is the best approach for huge mods requiring new scripts and refactors, but it's slow to compile and there are many issues to fix. The [issues](https://github.com/ithinkandicode/Deadbolt-GameMaker-1.4/issues) will help you here. <sup>\*1</sup> |
 | [UMT-ExportToProjectScript](https://github.com/ithinkandicode/Deadbolt-GMS-1.4-Misc/issues/33) | (Optional) Use this with UMT to export Deadbolt to an project, which you can open with GMS 1.4. Only works with UMT [v0.3.5.7](https://github.com/krzys-h/UndertaleModTool/releases/tag/0.3.5.7) or below. Use [this PR](https://github.com/ithinkandicode/UndertaleModTool-ExportToProjectScript/tree/fix/12-colkind-BBoxMode), which fixes a breaking issue.
 
 <sup>\*1</sup> <small>Note that a license may be required, and apparently it's not possible to gain one anymore (although you can get a license key from [G2A](https://www.g2a.com/search?query=GameMaker:%20Studio%20Professional), and I believe they can still be used to activate licenses in your YoYoGames account)</small>
